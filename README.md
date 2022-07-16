@@ -1,0 +1,2 @@
+# location-master
+People may have different work at different places. They may forget to keep track of all the work which is associated at different places. So we proposed a system where user will be reminded about his work at certain place where the work is associated with. This system tracks the user location with the help of GPS. System retrieves the user’s current geological coordinates, with the help of this system tracks user’s current location
